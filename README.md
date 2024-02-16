@@ -14,7 +14,7 @@ Trasform:
 Load:
 1. 2 Excel files were now converted to 4 csv files and loaded into a database and 4 tables created
 2. Tables were populated using csv files generated from transform methodology as detailed above
-3. Care was taken to populate the table in order of contacts, categoy, sub category and campaign. This was due to constraints (foreign keys) defined for campaign table
+3. Care was taken to populate the table in order of contacts, category, sub category and campaign. This was due to constraints (foreign keys) defined for campaign table
 2. Using sql queries the tables were linked with primary and foreign keys
 3. Entity Relationship Diagram (ERD) of the tables was created to provide a visual representation of the database structure
 2. We now had the capability to analyse data
